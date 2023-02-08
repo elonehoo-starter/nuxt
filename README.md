@@ -1,3 +1,3 @@
-# static
+# starter-nuxt
 
-Host for static files
+Starter template for Nuxt
