@@ -11,7 +11,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "postinstall": "nuxi prepare",
-    "generate": "nuxi generate"
+    "generate": "nuxi generate",
+    "release": "bumpp package.json --commit --push --tag"
   },
   "dependencies": {
     "@vueuse/core": "^9.12.0",
@@ -27,6 +28,7 @@
     "@pinia/nuxt": "^0.4.6",
     "@unocss/nuxt": "^0.49.4",
     "@vueuse/nuxt": "^9.12.0",
+    "bumpp": "^8.2.1",
     "eslint": "^8.33.0",
     "typescript": "^4.9.5"
   }
