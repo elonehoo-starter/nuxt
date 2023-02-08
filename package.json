@@ -2,16 +2,17 @@
   "version": "0.0.0",
   "private": "true",
   "description": "Starter template for Nuxt",
+  "author": "Elone Hoo <hi@elonehoo.me>",
+  "license": "MIT",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
     "start": "node .output/server/index.mjs",
     "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "postinstall": "nuxi prepare",
     "generate": "nuxi generate"
   },
-  "author": "Elone Hoo <hi@elonehoo.me>",
-  "license": "MIT",
   "dependencies": {
     "@vueuse/core": "^9.12.0",
     "nuxt": "^3.1.2",
