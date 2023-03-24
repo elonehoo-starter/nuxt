@@ -16,17 +16,17 @@
   },
   "dependencies": {
     "@vueuse/core": "^9.13.0",
-    "nuxt": "^3.2.3",
+    "nuxt": "^3.3.2",
     "pinia": "^2.0.33",
-    "unocss": "^0.50.4"
+    "unocss": "^0.50.6"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.36.0",
+    "@antfu/eslint-config": "^0.37.0",
     "@iconify-json/carbon": "^1.1.16",
     "@iconify-json/twemoji": "^1.1.11",
     "@nuxtjs/color-mode": "^3.2.0",
     "@pinia/nuxt": "^0.4.7",
-    "@unocss/nuxt": "^0.50.4",
+    "@unocss/nuxt": "^0.50.6",
     "@vueuse/nuxt": "^9.13.0",
     "bumpp": "^9.0.0",
     "eslint": "^8.36.0",
