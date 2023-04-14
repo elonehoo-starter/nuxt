@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
-    '@nuxt/devtools'
+    '@nuxt/devtools',
   ],
   experimental: {
     reactivityTransform: true,
