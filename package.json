@@ -15,20 +15,20 @@
     "release": "bumpp package.json --commit --push --tag"
   },
   "dependencies": {
-    "@vueuse/core": "^9.13.0",
+    "@vueuse/core": "^10.0.2",
     "nuxt": "^3.4.1",
     "pinia": "^2.0.34",
     "unocss": "^0.51.4"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.38.4",
+    "@antfu/eslint-config": "^0.38.5",
     "@iconify-json/carbon": "^1.1.16",
     "@iconify-json/twemoji": "^1.1.11",
-    "@nuxt/devtools": "^0.4.0",
+    "@nuxt/devtools": "^0.4.1",
     "@nuxtjs/color-mode": "^3.2.0",
     "@pinia/nuxt": "^0.4.8",
     "@unocss/nuxt": "^0.51.4",
-    "@vueuse/nuxt": "^9.13.0",
+    "@vueuse/nuxt": "^10.0.2",
     "bumpp": "^9.1.0",
     "eslint": "^8.38.0",
     "typescript": "^5.0.4"
