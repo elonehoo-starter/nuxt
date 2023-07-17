@@ -16,12 +16,12 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.2.1",
-    "nuxt": "^3.6.2",
+    "nuxt": "^3.6.3",
     "pinia": "^2.1.4",
     "unocss": "^0.53.5"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.7",
+    "@antfu/eslint-config": "^0.39.8",
     "@iconify-json/carbon": "^1.1.18",
     "@iconify-json/twemoji": "^1.1.11",
     "@nuxt/devtools": "^0.6.7",
@@ -30,7 +30,7 @@
     "@unocss/nuxt": "^0.53.5",
     "@vueuse/nuxt": "^10.2.1",
     "bumpp": "^9.1.1",
-    "eslint": "^8.44.0",
+    "eslint": "^8.45.0",
     "typescript": "^5.1.6"
   }
 }
