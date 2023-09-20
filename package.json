@@ -8,6 +8,7 @@
     "build": "nuxi build",
     "dev": "nuxi dev",
     "start": "node .output/server/index.mjs",
+    "test": "vitest",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "postinstall": "nuxi prepare",
@@ -31,6 +32,9 @@
     "@vueuse/nuxt": "^10.4.1",
     "bumpp": "^9.2.0",
     "eslint": "^8.49.0",
-    "typescript": "^5.2.2"
+    "happy-dom": "^12.1.2",
+    "nuxt-vitest": "^0.10.5",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.4"
   }
 }
