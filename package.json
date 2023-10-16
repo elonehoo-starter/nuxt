@@ -18,7 +18,7 @@
   "dependencies": {
     "@vueuse/core": "^10.5.0",
     "nuxt": "^3.7.4",
-    "pinia": "^2.1.6",
+    "pinia": "^2.1.7",
     "unocss": "^0.56.5"
   },
   "devDependencies": {
@@ -27,12 +27,12 @@
     "@iconify-json/twemoji": "^1.1.12",
     "@nuxt/devtools": "^0.8.5",
     "@nuxtjs/color-mode": "^3.3.0",
-    "@pinia/nuxt": "^0.4.11",
+    "@pinia/nuxt": "^0.5.0",
     "@unocss/nuxt": "^0.56.5",
     "@vueuse/nuxt": "^10.5.0",
     "bumpp": "^9.2.0",
     "eslint": "^8.51.0",
-    "happy-dom": "^12.9.0",
+    "happy-dom": "^12.9.1",
     "nuxt-vitest": "^0.11.0",
     "typescript": "^5.2.2",
     "vitest": "^0.34.6"
