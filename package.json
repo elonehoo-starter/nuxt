@@ -22,7 +22,7 @@
     "unocss": "^0.57.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.43.1",
+    "@antfu/eslint-config": "^1.1.1",
     "@iconify-json/carbon": "^1.1.21",
     "@iconify-json/twemoji": "^1.1.12",
     "@nuxt/devtools": "^0.8.5",
