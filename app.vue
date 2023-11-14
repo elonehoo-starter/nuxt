@@ -3,7 +3,9 @@ useHead({
   title: 'starter nuxt',
   link: [
     {
-      rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg',
+      rel: 'icon',
+      type: 'image/svg+xml',
+      href: '/favicon.svg',
     },
   ],
 })
