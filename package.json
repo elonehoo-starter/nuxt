@@ -20,7 +20,7 @@
     "@vueuse/core": "^10.7.2",
     "nuxt": "^3.9.3",
     "pinia": "^2.1.7",
-    "unocss": "^0.58.3"
+    "unocss": "^0.58.4"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.6.3",
@@ -29,13 +29,13 @@
     "@nuxt/devtools": "^1.0.8",
     "@nuxtjs/color-mode": "^3.3.2",
     "@pinia/nuxt": "^0.5.1",
-    "@unocss/nuxt": "^0.58.3",
+    "@unocss/nuxt": "^0.58.4",
     "@vueuse/nuxt": "^10.7.2",
     "bumpp": "^9.3.0",
     "eslint": "^8.56.0",
-    "happy-dom": "^13.2.1",
+    "happy-dom": "^13.3.1",
     "nuxt-vitest": "^0.11.5",
     "typescript": "^5.3.3",
-    "vitest": "^1.2.1"
+    "vitest": "^1.2.2"
   }
 }
