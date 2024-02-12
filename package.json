@@ -18,13 +18,13 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.7.2",
-    "nuxt": "^3.10.0",
+    "nuxt": "^3.10.1",
     "pinia": "^2.1.7",
     "unocss": "^0.58.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.6.4",
-    "@iconify-json/carbon": "^1.1.28",
+    "@iconify-json/carbon": "^1.1.29",
     "@iconify-json/twemoji": "^1.1.15",
     "@nuxt/devtools": "^1.0.8",
     "@nuxtjs/color-mode": "^3.3.2",
