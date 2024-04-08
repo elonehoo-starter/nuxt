@@ -18,24 +18,24 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.9.0",
-    "nuxt": "^3.11.1",
+    "nuxt": "^3.11.2",
     "pinia": "^2.1.7",
-    "unocss": "^0.58.9"
+    "unocss": "^0.59.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.12.1",
+    "@antfu/eslint-config": "^2.12.2",
     "@iconify-json/carbon": "^1.1.31",
     "@iconify-json/twemoji": "^1.1.15",
     "@nuxt/devtools": "^1.1.5",
     "@nuxtjs/color-mode": "^3.3.3",
     "@pinia/nuxt": "^0.5.1",
-    "@unocss/nuxt": "^0.58.9",
+    "@unocss/nuxt": "^0.59.0",
     "@vueuse/nuxt": "^10.9.0",
     "bumpp": "^9.4.0",
     "eslint": "^8.57.0",
     "happy-dom": "^13.10.1",
     "nuxt-vitest": "^0.11.5",
-    "typescript": "^5.4.3",
+    "typescript": "^5.4.4",
     "vitest": "^1.4.0"
   }
 }
