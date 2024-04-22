@@ -20,16 +20,16 @@
     "@vueuse/core": "^10.9.0",
     "nuxt": "^3.11.2",
     "pinia": "^2.1.7",
-    "unocss": "^0.59.2"
+    "unocss": "^0.59.4"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.13.3",
+    "@antfu/eslint-config": "^2.15.0",
     "@iconify-json/carbon": "^1.1.31",
     "@iconify-json/twemoji": "^1.1.15",
-    "@nuxt/devtools": "^1.1.5",
+    "@nuxt/devtools": "^1.2.0",
     "@nuxtjs/color-mode": "^3.4.0",
     "@pinia/nuxt": "^0.5.1",
-    "@unocss/nuxt": "^0.59.2",
+    "@unocss/nuxt": "^0.59.4",
     "@vueuse/nuxt": "^10.9.0",
     "bumpp": "^9.4.0",
     "eslint": "^8.57.0",
