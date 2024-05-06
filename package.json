@@ -32,7 +32,7 @@
     "@unocss/nuxt": "^0.59.4",
     "@vueuse/nuxt": "^10.9.0",
     "bumpp": "^9.4.1",
-    "eslint": "^8.57.0",
+    "eslint": "^9.2.0",
     "happy-dom": "^13.10.1",
     "nuxt-vitest": "^0.11.5",
     "typescript": "^5.4.5",
