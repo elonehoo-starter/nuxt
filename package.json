@@ -24,9 +24,9 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.21.1",
-    "@iconify-json/carbon": "^1.1.35",
+    "@iconify-json/carbon": "^1.1.36",
     "@iconify-json/twemoji": "^1.1.15",
-    "@nuxt/devtools": "^1.3.3",
+    "@nuxt/devtools": "^1.3.6",
     "@nuxtjs/color-mode": "^3.4.1",
     "@pinia/nuxt": "^0.5.1",
     "@unocss/nuxt": "^0.61.0",
@@ -35,7 +35,7 @@
     "eslint": "^8.57.0",
     "happy-dom": "^13.10.1",
     "nuxt-vitest": "^0.11.5",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.2",
     "vitest": "^1.6.0"
   }
 }
