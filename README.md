@@ -1,4 +1,4 @@
-# starter-nuxt
+# nuxt
 
 Starter template for Nuxt
 
@@ -6,14 +6,14 @@ Starter template for Nuxt
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/elonehoo/starter-nuxt/generate).
+[Create a repo from this template on GitHub](https://github.com/elonehoo-starter/nuxt/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-sudo npx degit elonehoo/starter-nuxt my-nuxt-app
+sudo npx degit elonehoo-starter/nuxt my-nuxt-app
 cd my-nuxt-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
