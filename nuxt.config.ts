@@ -1,4 +1,7 @@
 export default defineNuxtConfig({
+  future: {
+    compatibilityVersion: 4,
+  },
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
