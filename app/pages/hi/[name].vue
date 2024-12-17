@@ -20,7 +20,7 @@ definePageMeta({
     </p>
 
     <template v-if="user.otherNames.length">
-      <p text-sm my-4>
+      <div text-sm my-4>
         <span op-50>Also as known as:</span>
         <ul>
           <li v-for="otherName in user.otherNames" :key="otherName">
@@ -29,7 +29,7 @@ definePageMeta({
             </router-link>
           </li>
         </ul>
-      </p>
+      </div>
     </template>
 
     <LazyCounter />
