@@ -9,7 +9,6 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
     '@nuxt/devtools',
-    'nuxt-vitest',
   ],
   css: [
     '@unocss/reset/tailwind.css',
